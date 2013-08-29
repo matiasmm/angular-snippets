@@ -6,4 +6,4 @@ Project to save my snippets while learning angularjs.
 Directives:
 -------------------------
 
-  * [Element with issolated scope](http://jsfiddle.net/matubaum/htVCT/)
+  * [Element with issolated scope](http://jsfiddle.net/matubaum/htVCT/1)
