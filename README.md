@@ -1,6 +1,6 @@
 angular-snippets
 ================
-Project to save my snippets while learning angularjs.
+Project to save my snippets while learning angularjs from http://tinyurl.com/pzp9mtg
 
 
 Directives:
